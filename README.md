@@ -20,6 +20,10 @@ The starting symbol of this grammar is computation.
 
 ## Instructions of Use
 
+Video Demo: https://youtu.be/qkoByOgruko
+
+https://github.com/solaceinthenight/Simple_Interpreter/assets/102393117/67fc6e1f-5049-4023-bc2d-27341f38eea3
+
 Please follow **Build** section instructions below before proceeding.
 
 Run Executable: \
